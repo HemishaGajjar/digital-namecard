@@ -1,14 +1,14 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Lim;Preston;;;
-FN: Preston  Lim 
-ORG:GovTech;
-TITLE:Associate Software Engineer\nProducts Team, Data Science Division
-EMAIL;type=INTERNET;type=WORK;type=pref:preston@data.gov.sg
-TEL;type=WORK;type=VOICE:+65 9123 4567
-item1.ADR;type=WORK;type=pref:;;1 Fusionopolis View\nSandcrawler\, 09-01;;;138577;Singapore
+N:Hemisha;Gajjar;;;
+FN: Gajjar  Hemisha 
+ORG:Etico;
+TITLE:Web/Magento Developer
+EMAIL;type=INTERNET;type=WORK;type=pref:hemisha.mistry@gmail.com
+TEL;type=WORK;type=VOICE:+447507412331
+item1.ADR;type=WORK;type=pref:;;48B Lansdowne Place\nHove\;;;BN31HH;UK
 item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
+item2.URL;type=pref:hemisha.com
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
